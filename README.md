@@ -28,6 +28,9 @@ The program is written in JavaScript using Node.js. It reads three input files, 
 > The `Texts` folder is inside the "fileMergerAlternator" folder.
 
 
+> Don't forget to use `npm install`
+
+
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
