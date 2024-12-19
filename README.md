@@ -39,11 +39,6 @@ The program is written in JavaScript using Node.js. It reads three input files, 
 
 
 
-### מגישות:
-- לורן חצרוני כיתה 48/5
-- סוג'וד שאני כיתה 48/5
-
-
 Have a great day ♡
 
 
