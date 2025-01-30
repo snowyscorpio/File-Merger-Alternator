@@ -29,7 +29,7 @@ The program is written in JavaScript using Node.js. It reads three input files, 
 
 
 ### How to Run:
-1. Clone the repository.
+1. Download the project as a ZIP file and extract it.
 2. Navigate to the project directory using cd in terminal.
 3. Install Node.js if not already installed.
 (using `npm install`)
